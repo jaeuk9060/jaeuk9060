@@ -1,63 +1,71 @@
 <div align="center">
-  <h1>
-    안녕하세요
-  </h1>
-  <h4>
-    <a href="http://jaeuk.netlify.app" target="_blank">프로필</a>을 확인해보세요.
-  </h4>
+
+# 🌿 황재욱 | Jaeuk Hwang
+
+### 프론트엔드 중심의 웹 풀스택 개발자  
+“기술은 도구일 뿐, 결국 중요한 건 문제를 해결하는 능력이다.”
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaeuk.netlify.app-9cf?style=for-the-badge&logo=netlify&logoColor=white)](https://jaeuk.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-jeauk9060-181717?style=for-the-badge&logo=github)](https://github.com/jaeuk9060)
+
+---
+
+### ☎️ 연락하기
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dugyeon@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wodnr_h)
+
+---
+
+### 🧮 프로필 정보  
+![Profile Views](https://komarev.com/ghpvc/?username=jeauk9060&style=for-the-badge&label=PROFILE+VIEWS)
+![Website Status](https://img.shields.io/website?up_message=online&down_message=offline&style=for-the-badge&url=https://jaeuk.netlify.app)
+![Code Quality](https://img.shields.io/badge/Code-Quality-green?style=for-the-badge&logo=github)
+![Recent Commits](https://img.shields.io/badge/Recent-Commits-blue?style=for-the-badge&logo=git)
+
+---
+
+## 💻 GitHub 통계
+
+<details>
+  <summary><b>📊 언어 통계</b></summary>
+  <br/>
   <a href="https://github.com/jeauk9060">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeauk9060&layout=compact&theme=gruvbox&hide_border=true" height="165"/>
   </a>
+  <br/>
+  <a href="https://github.com/jeauk9060">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeauk9060&theme=gruvbox&hide_border=true" height="150"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeauk9060&theme=gruvbox&hide_border=true" height="150"/>
+  </a>
+</details>
+
+<details>
+  <summary><b>📈 활동 통계</b></summary>
+  <br/>
+  <a href="https://github.com/jeauk9060">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeauk9060&show_icons=true&theme=gruvbox&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeauk9060&theme=gruvbox&hide_border=true" height="165"/>
+  </a>
+</details>
+
+---
+
+### 🧠 Tech Stack
+#### 💡 Frontend
+`Vue.js` `Nuxt` `React` `TailwindCSS` `Vuetify`
+
+#### ⚙️ Backend
+`Spring Boot` `Java` `MyBatis` `JPA` `Node.js`
+
+#### 🗄️ Database
+`PostgreSQL` `MySQL` `MongoDB`
+
+#### 🧩 Tools & Platforms
+`Docker` `Render` `Vercel` `AWS` `GCP`
+
+---
+
+### ☕ 버그맛 커피 블로그  
+👉 [https://jaeuk.netlify.app](https://jaeuk.netlify.app)
+
 </div>
-<hr>
-<details>
-  <summary>☎️ 연락주세요</summary>
-  <div align="center">
-    <h2>나에게 연락하려면 다음을 사용하세요:</h2>
-    <p>
-      <a href="mailto:dugyeon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-      <a href="https://instagram.com/wodnr_h" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    </p>
-  </div>
-</details>
-<details>
-  <summary>🧮 정보</summary>
-  <div align="center">
-    <h2>이 계정에 관하여</h2>
-    <p>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://komarev.com/ghpvc/?username=jeauk9060&style=for-the-badge&label=PROFILE+VIEWS" alt="조회수"></a>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://github.com/jeauk9060" alt="웹사이트 상태"></a>
-    </p>
-    <p>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/badge/Code-Quality-green?style=for-the-badge&logo=github" alt="Code Quality"></a>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/badge/Recent-Commits-blue?style=for-the-badge&logo=git" alt="최근 커밋"></a>
-    </p>
-  </div>
-</details>
-<details>
-  <summary>💻 GitHub 프로필 통계</summary>
-  <div align="center">
-    <h2>Github 통계</h2>
-    <details>
-      <summary>언어</summary>
-      <p>
-        <a href="https://github.com/jeauk9060">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeauk9060&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="상위 언어">
-        </a>
-        <a href="https://github.com/jeauk9060">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeauk9060&theme=gruvbox&layout=compact&hide_border=true" alt="Repo별 인기 언어">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeauk9060&theme=gruvbox&layout=compact&hide_border=true" alt="커밋별 인기 언어">
-        </a>
-      </p>
-    </details>
-    <details>
-      <summary>통계</summary>
-      <p>
-        <a href="https://github.com/jeauk9060">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeauk9060&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeauk9060&theme=gruvbox&hide_border=true" alt="GitHub Streak">
-        </a>
-      </p>
-    </details>
-  </div>
-</details>
