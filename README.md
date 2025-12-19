@@ -1,9 +1,8 @@
 <div align="center">
   <h1>
-    안녕하세요👋, 저는 황재욱입니다.
+    안녕하세요
   </h1>
   <h4>
-    신입 개발자로 회사에서 일하고 있습니다. 
     <a href="http://jaeuk.netlify.app" target="_blank">프로필</a>을 확인해보세요.
   </h4>
   <a href="https://github.com/jeauk9060">
