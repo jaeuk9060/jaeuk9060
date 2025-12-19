@@ -8,18 +8,17 @@
 - DB: PostgreSQL
 
 🌐 Portfolio: https://jaeuk.netlify.app  
-💻 GitHub: https://github.com/jeauk9060  
+💻 GitHub: https://github.com/jaeuk9060  
 📧 Email: dugyeon@gmail.com  
 
 ---
 
 ### Tech Stack
-- **Frontend**: Vue.js, Nuxt, React, TailwindCSS, Vuetify  
+- **Frontend**: Vue.js, React, TailwindCSS, Vuetify  
 - **Backend**: Spring Boot, Java, JPA, MyBatis  
-- **Database**: PostgreSQL, MySQL, MongoDB  
-- **Infra**: Docker, Vercel, Render, AWS, GCP
+- **Database**: PostgreSQL, MySQL
 
 ---
 
 ☕ Blog: **버그맛 커피**  
-https://jaeuk.netlify.app
+--- 준비중
