@@ -7,7 +7,7 @@
 - Backend: Spring Boot (Java)
 - DB: PostgreSQL
 
-🌐 Portfolio: --준비중--
+🌐 Portfolio: --준비중
 💻 GitHub: https://github.com/jaeuk9060  
 📧 Email: dugyeon@gmail.com  
 
