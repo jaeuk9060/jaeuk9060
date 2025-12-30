@@ -7,7 +7,6 @@
 - Backend: Spring Boot (Java)
 - DB: PostgreSQL
 
-🌐 Portfolio: 준비중입니다
 📧 Email: dugyeon@gmail.com  
 
 ---
